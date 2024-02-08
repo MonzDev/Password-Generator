@@ -3,12 +3,12 @@
 Gerador de Senhas em Python
 Este é um simples gerador de senhas feito usando a biblioteca PySimpleGUI que permite aos usuários criar senhas aleatórias com base em suas preferências.
 
-#Características Principais
+# Características Principais
 Flexibilidade na escolha do tipo de senha: Os usuários podem escolher entre senhas compostas apenas por letras maiúsculas e minúsculas, senhas numéricas ou senhas alfanuméricas.
 
-# Tamanho personalizável: O aplicativo permite que os usuários determinem o tamanho desejado para suas senhas, variando de 8 a 30 caracteres.
+Tamanho personalizável: O aplicativo permite que os usuários determinem o tamanho desejado para suas senhas, variando de 8 a 30 caracteres.
 
-# Salvando Senhas: Após gerar uma senha, os usuários têm a opção de salvá-la associada a um nome de site ou usuário em um arquivo de texto.
+Salvando Senhas: Após gerar uma senha, os usuários têm a opção de salvá-la associada a um nome de site ou usuário em um arquivo de texto.
 
 Como Usar
 Execute o programa Python.
